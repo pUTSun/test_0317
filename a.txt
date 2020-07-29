@@ -13,4 +13,9 @@ add 2
 dddddddddddddddddddddddddddddddddddddddddddddddddddcolor1 分支
 color1 分支分支
 12345678
+<<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+xinyuangongkaifa
+1239876
+ooooooooooooooooooo
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuu
