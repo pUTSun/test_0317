@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 first ssdbjaksdyyyyyyy 
+=======
+first ssdbjaksdaaaaa 
+>>>>>>> color1
 sggggggggggggsadd 1
 gggghgggggggggggggggggg
 呃
